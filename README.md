@@ -1,12 +1,14 @@
 # API Adoceirinha - Backend
 
-Este projeto estabelecer controles de uma confeitaria, onde fará o cadastro do portfólio de produtos, controle de produção, custos de fabricação e venda do produto de forma online. 
+Este projeto visa estabelecer controles de uma confeitaria, onde fará o cadastro do portfólio de produtos, controle de produção, custos de fabricação e venda do produto de forma online. 
 
 Tem por objetivo subsidiar os gestores com informações de caracter gerencial, visando avaliar e estabelecer preços que façam frente a concorrência e que proporcionem continuidade e crescimento.
 
+Diagrama com as API utilizadas no MVP seguem no anexo da entrega com o nome: Diagrama_MVP_Adoceirinha.pdf
+
+
 ---
 ## Como executar 
-
 
 Será necessário ter todas as libs python listadas no `requirements.txt` instaladas.
 Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo.
